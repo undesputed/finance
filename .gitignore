@@ -73,31 +73,3 @@ coverage.xml
 ./client/dist/
 ./client/web-build/
 ./client/expo-env.d.ts
-
-# Native
-./client/*.orig.*
-./client/*.jks
-./client/*.p8
-./client/*.p12
-./client/*.key
-./client/*.mobileprovision
-
-# Metro
-./client/.metro-health-check*
-
-# debug
-./client/npm-debug.*
-./client/yarn-debug.*
-./client/yarn-error.*
-
-# macOS
-./client/.DS_Store
-./client/*.pem
-
-# local env files
-./client/.env*.local
-
-# typescript
-./client/*.tsbuildinfo
-
-./client/app-example
